@@ -91,7 +91,7 @@
     
     
     /*Header*/
-    .logo img {height: 100px;width:160px; }
+    .logo img {height: 60px;width:160px; }
     .navbar {justify-content: flex-end; width: 100%; border-radius: 0 !important;}
     .navbar-brand {left: 0px; margin-right: 0; position: absolute; top: 55%; padding: 0; transform: translateY(-50%); -webkit-transform: translateY(-50%); -o-transform: translateY(-50%); -ms-transform: translateY(-50%); -moz-transform: translateY(-50%);}
     .navbar-toggler {background: #ffffff; border-radius: 0; -webkit-box-shadow: 0 18px 42px 0 rgba(28, 30, 35, 0.15); -moz-box-shadow: 0 18px 42px 0 rgba(28, 30, 35, 0.15); box-shadow: 0 18px 42px 0 rgba(28, 30, 35, 0.15);}
