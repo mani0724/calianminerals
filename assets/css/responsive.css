@@ -96,7 +96,7 @@
     .navbar-brand {left: 0px; margin-right: 0; position: absolute; top: 55%; padding: 0; transform: translateY(-50%); -webkit-transform: translateY(-50%); -o-transform: translateY(-50%); -ms-transform: translateY(-50%); -moz-transform: translateY(-50%);}
     .navbar-toggler {background: #ffffff; border-radius: 0; -webkit-box-shadow: 0 18px 42px 0 rgba(28, 30, 35, 0.15); -moz-box-shadow: 0 18px 42px 0 rgba(28, 30, 35, 0.15); box-shadow: 0 18px 42px 0 rgba(28, 30, 35, 0.15);}
     .navbar-toggler-icon {height: inherit; width: inherit;}
-    .navbar-toggler-icon::before {color: #f9a305; content: "CM"; font-family: "themify"; font-size: 21px; font-style: normal; font-weight: normal; text-decoration: inherit;}
+    .navbar-toggler-icon::before {color: #f9a305; content: "Menu"; font-family: "themify"; font-size: 21px; font-style: normal; font-weight: normal; text-decoration: inherit;}
     .navbar-nav li > ul{position: static;}
     .navbar-nav .nav-item{margin: 0;}
     .navbar-nav .nav-link{padding: 10px !important; font-size: 16px; color: #282925;}
